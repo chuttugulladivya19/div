@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-29T06:37:35 UTC" name="Default suite" finished-at="2026-01-29T06:37:39 UTC" duration-ms="3301">
+    <groups>
+    </groups>
+    <test started-at="2026-01-29T06:37:35 UTC" name="Default test" finished-at="2026-01-29T06:37:39 UTC" duration-ms="3301">
+      <class name="extentreports.ExtentReportsDemo">
+        <test-method is-config="true" signature="starttest()[pri:0, instance:extentreports.ExtentReportsDemo@477b4cdf]" started-at="2026-01-29T06:37:35 UTC" name="starttest" finished-at="2026-01-29T06:37:35 UTC" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- starttest -->
+        <test-method signature="extenttest()[pri:0, instance:extentreports.ExtentReportsDemo@477b4cdf]" started-at="2026-01-29T06:37:35 UTC" name="extenttest" finished-at="2026-01-29T06:37:38 UTC" duration-ms="2973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extenttest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:extentreports.ExtentReportsDemo@477b4cdf]" started-at="2026-01-29T06:37:38 UTC" name="teardown" finished-at="2026-01-29T06:37:39 UTC" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- extentreports.ExtentReportsDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
